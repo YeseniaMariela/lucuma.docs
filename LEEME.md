@@ -18,3 +18,7 @@ Creditos:
     * Rosa Maria Palacios
     * Barata
 
+Editado:
+-------
+    *Jean Diaz
+
